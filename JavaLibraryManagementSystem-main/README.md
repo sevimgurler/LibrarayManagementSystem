@@ -93,6 +93,3 @@ And More...
   <img src="https://github.com/ErenMlg/JavaLibraryManagementSystem/assets/94524411/c7d70791-6a29-45f7-b3a3-b0d9b16ca027">
 </p>
 
-
-## End Note
-I may have mistakes, you can contact me for your feedback. 👉 📫 **eren.mollaoglu@outlook.com**<br>
